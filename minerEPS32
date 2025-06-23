@@ -1,0 +1,38 @@
+# ESP32 Bitcoin Miner + Web Panel
+
+Este proyecto convierte un ESP32 en un micro minero de Bitcoin que se conecta al pool SlushPool, intenta encontrar hashes válidos, y muestra un panel web en tiempo real con:
+
+- ✅ Total de hashes probados
+- 🎯 Shares válidos enviados al pool
+- 🔢 Último nonce
+- 🔐 Último hash generado
+- 📶 Señal WiFi (RSSI)
+- 🌐 IP del dispositivo
+
+### 🔧 Requisitos
+
+- Placa ESP32 (ESP32 Dev Module)
+- Arduino IDE con estas librerías instaladas:
+  - `WiFi`
+  - `WebServer`
+  - `Crypto` (SHA256)
+
+### 🌐 Visualización
+
+El ESP32 lanza una web que podés abrir desde tu navegador en la IP local, por ejemplo:
+
+Se actualiza cada 2 segundos automáticamente.
+
+### 📌 Notas
+
+Este proyecto es educativo. El ESP32 no tiene potencia suficiente para minar BTC de forma rentable, pero sí permite aprender el protocolo Stratum, minería PoW, y mostrar datos en red local.
+
+---
+
+### 🚀 ¿Querés que te prepare un .zip para subir a GitHub o que cree el repo por vos con todos los archivos listos?
+
+Puedo:
+- Armar el ZIP con `.ino` y `README.md`.
+- O darte los comandos para subirlo a tu GitHub directamente.
+
+¿Qué preferís?
