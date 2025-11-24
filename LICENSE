@@ -1,24 +1,415 @@
-This is free and unencumbered software released into the public domain.
+certifications:
+  - title: "FP-UNA Robotics & Automation Workshop 2023"
+    url: "assets/img/Certifications/FP_UNA/JV_Robotics_Automation_Workshop_2023.jpg"
+  - title: "FP-UNA Programming Competition 2021"
+    url: "assets/img/Certifications/FP_UNA/JV_programing_competition_2021.jpg"
+  - title: "Agile Team Operations Certificate"
+    url: "assets/img/Certifications/FP_UNA/JV_Certificate_AgileTeamOps.jpg"
+  - title: "Paraguay National Programming Contest Finalist 2023"
+    url: "assets/img/Certifications/FP_UNA/Paraguay_National_Programming_Contest_Finalist_2023.jpg"
+  - title: "TeamOps Advanced Technical Training Certificate 2023"
+    url: "assets/img/Certifications/FP_UNA/Teampos_Advanced_Technical_Training_Certificate_2023.jpg"
+---
+certifications:
+  - title: "HTML Essential Training"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_HTML_Essential_Training.jpg"
+  - title: "CSS Essential Training 2021"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_CSS_Essential_Training_2021.jpg"
+  - title: "JavaScript Essential Training"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_JavaScript_Essential_Training.jpg"
+  - title: "Succeeding in Web Development: Full Stack and Front End"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Succeeding_in_Web_Development_Full_Stack_and_Front_End.jpg"
+  - title: "Installing Apache, PostgreSQL, and PHP"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Installing_Apache_PostgreSQL_and_PHP.jpg"
+  - title: "Programming Foundations: Web Security 2022"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Programming_Foundations_Web_Security_2022.jpg"
+  - title: "Learning Python"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Learning_Python.jpg"
+  - title: "Learning C# and .NET"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Learning_CSHARP_NET.jpg"
+  - title: "Learning SQL Programming"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Learning_SQL_Programming.jpg"
+  - title: "Learning C"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Learning_C.jpg"
+  - title: "Python Essential Training"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Python_Essential_Training.jpg"
+  - title: "API Testing Foundations"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_API_Testing_Foundations.jpg"
+  - title: "Cypress Essential Training"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Cypress_Essential_Training.jpg"
+  - title: "Test Automation Foundations"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Test_Automation_Founndations.jpg"
+  - title: "Programming Foundations: Software Testing/QA"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Programming_Foundations_Software_TestingQA.jpg"
+  - title: "Developing Your Emotional Intelligence"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Developing_Your_Emotional_Intelligence.jpg"
+  - title: "Career Essentials in Software Development by Microsoft and LinkedIn"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Career_Essentials_in_Software_Development_by_Microsoft_and_LinkedIn.jpg"
+  - title: "Finding a Remote Job"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Finding_a_Remote_Job.jpg"
+  - title: "Introduction to Career Skills in Software Development"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_Introduction_to_Career_Skills_in_Software_Development.jpg"
+  - title: "GPT-4: The New GPT Release and What You Need to Know"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_GPT4_The_New_GPT_Release_and_What_You_Need_to_Know.jpg"
+  - title: "Problem Solving Techniques"
+    url: "assets/img/Certifications/LinkedInLearning/CertificateOfCompletion_ProblemSolving_Techniques.jpg"
+---
+certifications:
+  - title: "José Velázquez MentorMate Generative AI for QA"
+    url: "assets/img/Certifications/Mentormate/José_Velázquez_MentorMate_Generative_AI_for_QA.jpg"
+  - title: "José Velázquez Certificate Software Quality Annual Report"
+    url: "assets/img/Certifications/Mentormate/José_Velázquez_Certificate_SoftwareTestingAnualReport.jpg"
+  - title: "Logical Skills Certification MentorMate"
+    url: "assets/img/Certifications/Mentormate/Logical_Skills_Certidication_Mentormate.jpg"
+---
+certifications:
+  - title: "Agile Course Certificate"
+    url: "assets/img/Certifications/Personal/Agile_Course_certificate.jpg"
+  - title: "Advanced English Proficiency Certificate BECAL Scholarship 2023"
+    url: "assets/img/Certifications/Personal/José_Velázquez_Advanced_English_Proficiency_Certificate_BECAL_Scholarship_2023.jpg"
+  - title: "NASA International Space Apps Challenge"
+    url: "assets/img/Certifications/Personal/NASA_International_Space_Apps_Challenge.jpg"
+  - title: "FPUNA Grades 1"
+    url: "assets/img/Certifications/FP_UNA/FPUNA_grades-1.jpg"
+  - title: "FPUNA Grades 2"
+    url: "assets/img/Certifications/FP_UNA/FPUNA_grades-2.jpg"
+  - title: ISTQB Foundation Level
+    url: Certificate-8e85e79dd27d41078da9908a53aaedb8.jpg
+---
+certifications:
+  - title: "TAU Foundations for QA Automation"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/certificates_TAU_Funadations_for_QA_Automation.jpg"
+  - title: "TAU Cypress for QA Automation"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/certificates_TAU_Cypress_For_QA_Automation.jpg"
+  - title: "TAU API Testing JavaScript"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_APITestingJavaScript_Certificate.jpg"
+  - title: "TAU Continuous Integration GitHub Actions"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_ContinuousIntegrationGitHubActions_Certificate.jpg"
+  - title: "TAU Introduction to JUnit"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_IntroductionToJUnit_Certificate.jpg"
+  - title: "TAU Java Programming"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_JavaProgramming_Certificate.jpg"
+  - title: "TAU Python Programming"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_PythonProgramming_Certificate.jpg"
+  - title: "TAU Selenium WebDriver Java"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_SeleniumWebDriverJava_Certificate.jpg"
+  - title: "TAU Selenium WebDriver Python"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_SeleniumWebDriverPython_Certificate.jpg"
+  - title: "TAU Setting Foundation for Test Automation"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_SettingFoundationTestAutomation_Certificate.jpg"
+  - title: "TAU Source Control with Git"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_SourceControlGit_Certificate.jpg"
+  - title: "TAU WebElement Locator Strategies"
+    url: "assets/img/Certifications/Mentormate/Test_Automation_University/TAU_WebElementLocatorStrategies_Certificate.jpg"
+---
+layout: page
+title: About Me
+permalink: about
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+sections:
+  - title: "Introduction"
+    subtitle: "About Me"
+    text: "Hola, soy José Velázquez, un desarrollador de software de 25 años apasionado por la automatización y la calidad del código. Con una sólida formación académica en Ingeniería de Software, aporto un conjunto diverso de habilidades en desarrollo, testing y optimización de procesos."
+    resume_download_link: "path_to_resume_jose_velazquez.pdf"
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+languagesIntroduction: "Soy fluido en inglés y español, lo que me permite comunicarme eficazmente con diversos públicos y colaborar con equipos internacionales."
 
-For more information, please refer to <https://unlicense.org>
+languages:
+  - name: English
+    flag_path: "/assets/img/flags/usa_flag.png"
+    speech: Native
+    reading: Native
+    writing: Native
+  - name: Spanish
+    flag_path: "/assets/img/flags/spain_flag.png"
+    speech: Native
+    reading: Native
+    writing: Native
+
+experience_intro: "He acumulado una gran experiencia en la industria del desarrollo de software, trabajando en una amplia gama de proyectos y contribuyendo al éxito de varias organizaciones."
+experience:
+  - role: QA Engineer (Automation Focus)
+    company: InnoTech Solutions
+    duration: "November 2019 - December 2023"
+    description: Enfocado en la automatización de pruebas (Selenium, Cypress) y procesos de CI/CD, mejorando la calidad del producto y la velocidad de lanzamiento al mercado.
+    picture_path: "/assets/img/experience/innotech_logo.png"
+    more_info_link: "https://www.innotech.com/"
+  - role: Software Developer (Backend focus)
+    company: InnoTech Solutions
+    duration: "November 2019 - December 2023"
+    description: Desarrollé y mantuve componentes clave del backend, utilizando Java, Python y bases de datos NoSQL para mejorar las funcionalidades de las aplicaciones.
+    picture_path: "/assets/img/experience/innotech_logo.png"
+    more_info_link: "https://www.innotech.com/"
+  - role: Quality Specialist II
+    company: MentorMate
+    duration: "August 2024 - Present"
+    description: Actualmente trabajo en aseguramiento de calidad para proyectos de software médico innovador, enfocado en mejorar la salud femenina a través de la tecnología.
+    picture_path: "/assets/img/experience/mentormate_logo.png"
+    more_info_link: "https://www.mentormate.com/"
+    
+skills_description: >
+  Como Ingeniero de Software, poseo un amplio rango de habilidades técnicas para abordar desafíos complejos y entregar soluciones de alta calidad, desde el backend hasta las interfaces de usuario.
+
+skills_intro: "He perfeccionado mis habilidades en diversas herramientas y tecnologías esenciales para el desarrollo y las pruebas de software."
+skills:
+  - category: "Automation Tools"
+    tools:
+    - icon_path: "/assets/img/logos/tools/selenium_logo.png"
+      technology: "Selenium"
+      description: "Automatización de navegadores web para escenarios de prueba robustos y repetibles."
+    - icon_path: "/assets/img/logos/tools/cypress_logo.png"
+      technology: "Cypress"
+      description: "Framework moderno para testing end-to-end con foco en la velocidad y la experiencia del desarrollador."
+    - icon_path: "/assets/img/logos/tools/Postman_logo.webp"
+      technology: "Postman"
+      description: "Utilizado para pruebas de API y asegurar la fiabilidad y escalabilidad de los servicios backend."
+
+  - category: "Data Analysis"
+    tools:
+      - icon_path: "/assets/img/logos/tools/pandas_logo.png"
+        technology: "Pandas"
+        description: "Manipulación y análisis de datos complejos en entornos Python."
+
+  - category: "Version Control"
+    tools:
+      - icon_path: "/assets/img/logos/tools/git_logo.png"
+        technology: "Git"
+        description: "Esencial para el seguimiento de cambios y colaboración en el código fuente."
+
+  - category: "Front-end Development"
+    tools:
+      - icon_path: "/assets/img/logos/tools/HTML_logo.png"
+        technology: "HTML"
+        description: "Base fundamental para estructurar contenido web."
+      - icon_path: "/assets/img/logos/tools/css_logo.png"
+        technology: "CSS"
+        description: "Estilización de aplicaciones web para una interfaz de usuario atractiva."
+      - icon_path: "/assets/img/logos/tools/js_logo.png"
+        technology: "JavaScript"
+        description: "Habilita la interactividad y es clave en el desarrollo web moderno."
+      - icon_path: "/assets/img/logos/tools/react_logo.webp"
+        technology: "React"
+        description: "Librería JavaScript para la construcción de interfaces de usuario dinámicas (SPA)."
+
+  - category: "Back-end Development"
+    tools:
+      - icon_path: "/assets/img/logos/tools/java_logo.png"
+        technology: "Java"
+        description: "Utilizado para desarrollo del lado del servidor y lógica de negocio."
+      - icon_path: "/assets/img/logos/tools/python_logo.png"
+        technology: "Python"
+        description: "Versatilidad para scripting, automatización y desarrollo rápido de aplicaciones."
+      - icon_path: "/assets/img/logos/tools/spring_logo.png"
+        technology: "Spring Boot"
+        description: "Framework para la creación de microservicios robustos y eficientes con Java."
+
+  - category: "Databases"
+    tools:
+      - icon_path: "/assets/img/logos/tools/postgresql_logo.png"
+        technology: "PostgreSQL"
+        description: "Sistema de gestión de bases de datos relacionales avanzado y eficiente."
+      - icon_path: "/assets/img/logos/tools/mongo_logo.jpg"
+        technology: "MongoDB"
+        description: "Utilizado para pruebas y gestión de datos NoSQL, garantizando integridad y rendimiento."
+
+
+passion_and_interests: |
+  Además de la programación, me interesa especialmente la automatización, Python, y la aplicación de herramientas como Cypress y Selenium para un testing escalable. Me mantengo al día con las últimas tendencias tecnológicas, como la IA generativa en QA, para ofrecer soluciones de vanguardia.
+---
+profile:
+  name: José Velázquez
+  description: "un desarrollador de software de 25 años apasionado por la automatización y la calidad del código, con una sólida base en Ingeniería de Software."
+education:
+  - degree: Bachelor's Degree in Computer Science
+    location: Asunción, Paraguay
+    institution: FP-UNA
+    institution_url: https://www.pol.una.py/
+    institution_logo: assets/img/logos/unis/fpuna_logo_institucional.svg
+    description: "Mi formación me proporcionó una base sólida en programación, algoritmos, estructuras de datos y desarrollo de software. Participé en varios proyectos colaborativos y competiciones, aplicando habilidades para diseñar soluciones eficientes y desarrollar aplicaciones robustas."
+  - degree: Study Abroad Program
+    location: Austin, Texas
+    institution: University of Texas at Austin
+    institution_url: https://www.utexas.edu/
+    institution_logo: assets/img/logos/unis/ut_austin_logo.png
+    description: "De Enero a Mayo, estudié en EE. UU. con una beca BECAL. En UT Austin, perfeccioné mi inglés, participé en eventos de tecnología y colaboré en un hackathon enfocado en soluciones de energía renovable."
+projects:
+  - title: Eco-Harvest AI (Agriculture Optimization)
+    description: "Este proyecto buscó optimizar la producción agrícola mediante el uso de aprendizaje automático y sistemas de sensores para el análisis de suelos. La idea principal fue desarrollar un sistema de recomendación inteligente que ajustara automáticamente el riego y la fertilización."
+    impact: "El enfoque innovador utiliza la automatización y la IA para maximizar los rendimientos de los cultivos con un consumo mínimo de recursos, promoviendo una agricultura más sostenible y eficiente. El sistema incluye un dashboard web para que los agricultores monitoreen y gestionen sus campos en tiempo real."
+    project_logo: assets/img/logos/ecoHarvestLogo.png
+    youtube_link: https://youtu.be/J051XxNL2iM
+---
+page_info:
+  title: "Quality Specialist II at MentorMate"
+  duration: "February 2024 – Present"
+
+sections:
+  - id: overview
+    title: "Overview of the Women's Health Platform"
+    details:
+      - key: "Purpose"
+        value: "La plataforma (Mobile App y Provider Portal) está diseñada para apoyar a mujeres con problemas de salud pélvica a través de un sistema dual que incluye una aplicación móvil y un dispositivo médico para el tratamiento y fortalecimiento muscular."
+      - key: "Business Value"
+        value: "La integración de la app móvil con el Portal del Proveedor ofrece una solución integral para el manejo de la salud pélvica, mejorando la calidad de vida de las usuarias y facilitando la supervisión profesional remota."
+
+  - id: key_features
+    title: "Key Features and Technical Details"
+    categories:
+      - name: "Mobile Application"
+        features:
+          - description: "Sesiones guiadas con el dispositivo, con ejercicios para fortalecer los músculos pélvicos."
+          - description: "Seguimiento del progreso terapéutico a través de un programa de 6 semanas y vistas de progreso semanal/total."
+          - description: "Encuestas para evaluar los cambios en la continencia y la calidad de vida."
+          - description: "Visualización de objetivos de salud personales y interfaces de control de progreso."
+          - description: "Recursos de incorporación e información sobre salud pélvica y uso del dispositivo."
+      - name: "Provider Portal"
+        features:
+          - description: "Acceso a datos en tiempo real sobre el progreso de la terapia del paciente y resultados de encuestas."
+          - description: "Facilita el registro detallado al permitir que los proveedores agreguen y administren notas sobre el progreso de cada paciente."
+          - description: "Gestión de perfiles de pacientes, planes de tratamiento detallados y monitoreo de progreso individual."
+          - description: "Herramientas de comunicación integradas para mejorar las interacciones proveedor-paciente."
+
+  - id: technical_specs
+    title: "Technical Specifications"
+    specs:
+      - key: "Integration"
+        value: "Integración perfecta entre la aplicación móvil y el Portal del Proveedor para la sincronización de datos en tiempo real."
+      - key: "Security Features"
+        value: "Implementación de SSL pinning y protocolos de acceso seguro para salvaguardar la transmisión de datos (HIPAA compliance)."
+      - key: "User Interface"
+        value: "Foco en usabilidad, accesibilidad y diseño responsivo para diversos dispositivos."
+
+  - id: development
+    title: "Development and Maintenance"
+    points:
+      - "Se realizan actualizaciones periódicas de la aplicación y el portal basándose en la retroalimentación de los usuarios y avances tecnológicos."
+      - "La retroalimentación tanto de pacientes como de proveedores de atención médica se incorpora activamente para mejorar las características y abordar las necesidades de los usuarios de manera efectiva."
+
+  - id: technologies
+    title: "Technologies Used and Learned"
+    technologies:
+      - description: "Programación y Scripting: Python para automatización backend, JavaScript para interacciones frontend, y SQL para gestión de bases de datos."
+      - description: "Herramientas: Uso extensivo de Postman para pruebas de API, Charles Proxy para gestión de tráfico y SSL pinning, MongoDB para pruebas de bases de datos."
+      - description: "Frameworks y Librerías: React para desarrollo frontend dinámico, Spring Boot como framework backend para lógica del lado del servidor, y Pandas para análisis de datos."
+---
+- tripName: "Netherlands"
+  startDate: "2023-08-01"
+  finishDate: "2023-08-15"
+  reasonForTravel: "Family Visit and Leisure"
+  destination: "Utrecht, Netherlands"
+  tags:
+    - "family"
+    - "leisure"
+    - "Netherlands"
+    - "culture"
+  description: "Viaje familiar para visitar parientes en Utrecht y explorar la rica cultura holandesa."
+  images:
+    - src: "images/travels/utrecht_canal.jpg"
+      description: "Caminando a lo largo del canal en Utrecht."
+
+- tripName: "CPK Scholarship to USA"
+  startDate: "2024-01-01"
+  finishDate: "2024-07-14"
+  reasonForTravel: "Study Abroad"
+  destination: "Austin, Texas"
+  tags:
+    - "study"
+    - "scholarship"
+    - "USA"
+    - "culture"
+  description: "Beca de estudios en la Universidad de Texas en Austin, enfocada en la profundización de habilidades de ingeniería y participación en el ecosistema tecnológico de Texas."
+  images:
+    - src: "images/travels/texas_tech_event.jpg"
+      description: "Participación en un evento tecnológico en Austin."
+
+- tripName: "Spring Break in Los Angeles and San Francisco"
+  startDate: "2024-03-11"
+  finishDate: "2024-04-01"
+  reasonForTravel: "Spring Break Vacation"
+  destination: "Los Angeles, San Francisco"
+  tags:
+    - "vacation"
+    - "USA"
+    - "California"
+  description: "Vacaciones de primavera explorando Silicon Valley, la cultura de Los Ángeles y la belleza costera de California."
+  images:
+    - src: "images/travels/los_angeles_beach.jpg"
+      description: "Caminando por la playa en Los Ángeles."
+
+- tripName: "Maceio, Brasil"
+  startDate: "2024-07-15"
+  finishDate: "2024-07-30"
+  reasonForTravel: "Family Vacation"
+  destination: "Maceio, Brasil"
+  tags:
+    - "vacation"
+    - "family"
+    - "Brasil"
+    - "beach"
+  description: "Vacaciones familiares disfrutando de las playas y el clima de Maceio, Brasil."
+  images:
+    - src: "images/travels/maceio_beach.jpg"
+      description: "Caminando por la playa en Maceio."
+---
+layout: page
+title: Work Experience
+permalink: /work-experience/
+
+jobs:
+  - title: "Owner/Operator at 3D-Tech-PY"
+    period: "March 2018 – January 2024"
+    achievements:
+      - name: "Interpersonal Skills"
+        detail: "Gestión de operaciones diarias y mantenimiento de la excelencia operativa. Mantenimiento rutinario de equipos de impresión 3D."
+      - name: "Software Development"
+        detail: "Creación de un sistema propietario para publicaciones automatizadas de anuncios en línea utilizando Selenium y Python."
+
+  - title: "Software Tester at InnoTech Solutions"
+    period: "October 2018 – Present"
+    contributions:
+      - name: "International Collaboration"
+        detail: "Trabajó con equipos internacionales para mejorar las operaciones globales de testing."
+      - name: "Efficiency in Testing"
+        detail: "Utilización de Jira para la gestión y documentación de incidencias, aumentando la eficiencia en la resolución de problemas."
+      - name: "Automation Initiatives"
+        detail: "Desarrollo de scripts de pruebas automatizadas que redujeron los esfuerzos de prueba manual en un 40%."
+      - name: "Python Development"
+        detail: "Creación de un framework de testing XML basado en Python y herramientas para convertir XSD a archivos Excel estructurados en XML."
+    responsibilities:
+      - category: "Manual Testing"
+        activities:
+          - "Colaboración con miembros del equipo internacional."
+          - "Documentación de tickets de problemas de clientes en un entorno de prueba local."
+      - category: "Automation of Testing Tasks"
+        activities:
+          - "Desarrollo de scripts de pruebas automatizadas utilizando Selenium y Python/Cypress."
+          - "Integración de pruebas en el pipeline de CI."
+
+  - title: "Quality Specialist II at MentorMate"
+    period: "February 2024 – January 2025"
+    project_name: "Women's Health Platform (Flyte Project equivalent)"
+    role_details:
+      - name: "Testing and Development"
+        detail: "Lideró los esfuerzos de testing utilizando Postman para pruebas de API y Charles Proxy para simulaciones de red."
+      - name: "Data Management"
+        detail: "Automatizó el proceso de extracción y análisis de datos de terapia."
+    impact_statement: "Mejora de la calidad de vida de las usuarias al proporcionar una opción de tratamiento no invasiva gestionada desde casa."
+    collaboration_details: "Trabajó en colaboración con un equipo internacional, entregando una solución de atención médica de alto impacto."
+    overview:
+      purpose: "Apoyar la salud del suelo pélvico femenino a través de una aplicación móvil y un dispositivo terapéutico."
+      business_value: "Proporciona una solución integral para la gestión de la salud pélvica."
+    features:
+      - name: "Mobile Application"
+        details: "Ofrece sesiones de terapia guiadas y seguimiento de progreso."
+      - name: "Provider Portal"
+        details: "Permite a los profesionales de la salud monitorear el progreso de la terapia del paciente."
+    technical_aspects:
+      - name: "Technical Specifications"
+        details:
+          - "Integración entre la aplicación móvil y el Portal del Proveedor para la sincronización de datos en tiempo real."
+          - "Las características de seguridad incluyen SSL pinning y protocolos de acceso seguro (HIPAA compliance)."
+    project_reflections:
+      contributions: "Desarrollo de scripts de automatización para la extracción y el procesamiento de datos."
+      teamwork: "Colaboración con un equipo internacional, enriqueciendo el proyecto con perspectivas culturales diversas."
+---
